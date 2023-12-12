@@ -1,6 +1,4 @@
-# Online-Business-Workshop-
-Online Business Workshop 
-
+# Online-Business-Workshop
 
 An online business workshop covers various essential aspects of starting, managing, and growing a business in the digital space. Here's a breakdown of potential content that could be included:
 
